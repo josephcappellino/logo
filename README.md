@@ -1,2 +1,3 @@
-# logo
-Repository containing logos used in CI builds
+# Logo
+
+Repository containing logos used in CI builds.
